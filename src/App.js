@@ -14,7 +14,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://areteworkbook.com"
+            href="https://areteworkbook.godaddysites.com"
             target="_blank"
             rel="noopener noreferrer"
           >
